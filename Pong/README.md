@@ -1,8 +1,8 @@
 # Pong
 
 ## How to Play: 
- - In the game of Snake, the player uses the arrow keys to move a "snake" around the board.
- - As the snake finds food, it eats the food, and thereby grows larger. The game ends when the snake either moves off the screen or moves into itself. The goal is to make the snake as large as possible before that happens
+ - Pong is a simple game, which consists of a paddle (which is controlled by the user) and a ball. 
+ - The ball bounces off the paddle and three walls. If the ball hits the paddle, the user gains points; if the ball hits behind the paddle, the game is over.
 
 *Screenshot of my Pong Game*:
 
