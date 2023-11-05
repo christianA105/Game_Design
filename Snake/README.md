@@ -14,4 +14,4 @@
 
 ### Reference:
 
-![Python Snake Game Video](https://www.youtube.com/watch?v=bfRwxS5d0SI&t=1450s)
+[![Python Snake Game Video](https://www.youtube.com/watch?v=bfRwxS5d0SI&t=1450s)](https://www.youtube.com/watch?v=bfRwxS5d0SI&t=1450s)
