@@ -6,8 +6,12 @@
 
 *Screenshot of Snake Game*:
 
-![Sanke Game](img/SnakeGame.png)
+![Snake Game](img/SnakeGame.png)
 
 *Screenshot of Snake Game: Game Over Screen*:
 
-![Sanke Game](img/GameOver.png)
+![Snake Game](img/GameOver.png)
+
+### Reference:
+
+![Python Snake Game Video](https://www.youtube.com/watch?v=bfRwxS5d0SI&t=1450s)
