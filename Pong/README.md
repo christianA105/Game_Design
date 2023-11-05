@@ -14,4 +14,4 @@
 
 ### Reference:
 
-![Pong Game Video](https://www.youtube.com/watch?v=jrqN0uZwhwk "EASY Pong Game in JavaScript Tutorial - QUICK BEGINNER PROJECT")
+[Pong Game Video](https://www.youtube.com/watch?v=jrqN0uZwhwk "EASY Pong Game in JavaScript Tutorial - QUICK BEGINNER PROJECT")
